@@ -1,7 +1,7 @@
  ![MasterHead](https://raw.githubusercontent.com/BEPb/BEPb/3e7b42ddac3c8e86088e7cdc6f6aa76fdb5a26df/assets/Bottom_up.svg)
 <h1 align="center">Hi 👋, I'm Wissal Loutfi</h1>
 <h3 align="center">A GIRL WHO LOVES TO CODE 💕</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/4aa77ea32aa4d7be626e833b160f3d8923c133cd32c34fefbdc43c8abfcff710/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f6d656469612f62303861623537363331366264343538326665663138396634373163643965352e676966">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 - 🌱 I’m currently learning: digital development
 
 - 💬 Ask me about:**Python💛**,**Html🧡**,**CSS🤎**
