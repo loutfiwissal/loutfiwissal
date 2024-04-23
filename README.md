@@ -4,8 +4,7 @@
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 - 🌱 I’m currently learning: digital development
 
-- 💬 Ask me about:**Python💛**,**Html🧡**,**CSS🤎**
-
+- 💬 Ask me about:**Python💛**,**Html🧡**,**CSS🤎**,**Bootstrap💜**,""javascript🩵**,**Musql💙**
 - 📫 How to reach me **Loutfiwi20@gmail.com**
 
 <p align="left">
