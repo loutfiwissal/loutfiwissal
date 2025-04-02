@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning: digital development
 
 - 💬 Ask me about:**Python💛**,**Html🧡**,**CSS🤎**,**Bootstrap💜**,**javascript🩵**,**Mysql💙**,PHP
-- 📫 How to reach me **Loutfiwi20@gmail.com**
+- 📫 How to reach me **Loutfiwis20@gmail.com**
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
